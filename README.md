@@ -44,22 +44,22 @@ Replace `program01` with the relevant program number (`program02`, `program03`, 
 ### Example for all programs
 
 ```bash
-g++ Program_01/program01.cpp -o program01 && ./program01
-g++ Program_02/program02.cpp -o program02 && ./program02
-g++ Program_03/program03.cpp -o program03 && ./program03
-g++ Program_04/program04.cpp -o program04 && ./program04
-g++ Program_05/program05.cpp -o program05 && ./program05
-g++ Program_06/program06.cpp -o program06 && ./program06
-g++ Program_07/program07.cpp -o program07 && ./program07
-g++ Program_08/program08.cpp -o program08 && ./program08
-g++ Program_09/program09.cpp -o program09 && ./program09
-g++ Program_10/program10.cpp -o program10 && ./program10
-g++ Program_11/program11.cpp -o program11 && ./program11
-g++ Program_12/program12.cpp -o program12 && ./program12
-g++ Program_13/program13.cpp -o program13 && ./program13
-g++ Program_14/program14.cpp -o program14 && ./program14
-g++ Program_15/program15.cpp -o program15 && ./program15
-g++ Program_16/program16.cpp -o program16 && ./program16
+g++ "UNIT 2/Program_01/program01.cpp" -o program01 && ./program01
+g++ "UNIT 2/Program_02/program02.cpp" -o program02 && ./program02
+g++ "UNIT 2/Program_03/program03.cpp" -o program03 && ./program03
+g++ "UNIT 2/Program_04/program04.cpp" -o program04 && ./program04
+g++ "UNIT 2/Program_05/program05.cpp" -o program05 && ./program05
+g++ "UNIT 2/Program_06/program06.cpp" -o program06 && ./program06
+g++ "UNIT 2/Program_07/program07.cpp" -o program07 && ./program07
+g++ "UNIT 2/Program_08/program08.cpp" -o program08 && ./program08
+g++ "UNIT 2/Program_09/program09.cpp" -o program09 && ./program09
+g++ "UNIT 2/Program_10/program10.cpp" -o program10 && ./program10
+g++ "UNIT 2/Program_11/program11.cpp" -o program11 && ./program11
+g++ "UNIT 2/Program_12/program12.cpp" -o program12 && ./program12
+g++ "UNIT 2/Program_13/program13.cpp" -o program13 && ./program13
+g++ "UNIT 2/Program_14/program14.cpp" -o program14 && ./program14
+g++ "UNIT 2/Program_15/program15.cpp" -o program15 && ./program15
+g++ "UNIT 2/Program_16/program16.cpp" -o program16 && ./program16
 ```
 
 ## Notes on Fixes
