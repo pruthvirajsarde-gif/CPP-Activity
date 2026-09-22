@@ -10,8 +10,39 @@
 ---
 
 ## Units Covered
-1. **Unit II — Inheritance** (`UNIT 2/`)
-2. **Unit III — Polymorphism** (`UNIT 3/`)
+1. **Unit I — C++ Basics & Core OOP** (`UNIT I/`)
+2. **Unit II — Inheritance** (`UNIT 2/`)
+3. **Unit III — Polymorphism** (`UNIT 3/`)
+
+---
+
+## Unit I: C++ Basics & Core OOP
+
+### List of Programs
+
+| # | Title | Folder | Main Concept | Description |
+|---|-------|--------|--------------|-------------|
+| 1 | Basic Data Types | `UNIT I/Program_01` | Fundamental Data Types | Demonstrates basic data types (`int`, `char`, `float`) and standard stream I/O. |
+| 2 | Conditional Statements (if-else) | `UNIT I/Program_02` | Selection Control Structure | Checks pass/fail criteria using condition checking with `if-else`. |
+| 3 | Loops and Arrays | `UNIT I/Program_03` | Arrays and Iteration | Demonstrates 1D array traversal using a standard `for` loop. |
+| 4 | User-Defined Functions | `UNIT I/Program_04` | Modular Functions | Demonstrates function prototyping, parameter passing by value, and return values. |
+| 5 | Classes and Objects | `UNIT I/Program_05` | Class & Object Basics | Encapsulates student data and behaviors into a class with object instances. |
+| 6 | Constructor and Destructor | `UNIT I/Program_06` | Object Lifecycle | Demonstrates automatic initialization via constructor and cleanup via destructor. |
+| 7 | Static Data Members | `UNIT I/Program_07` | Static Class Members | Tracks total object creations using a shared class-level static counter. |
+| 8 | Inline and Friend Functions | `UNIT I/Program_08` | Inline & Friend Functions | Accesses private members via an inline getter and a non-member friend function. |
+
+### How to Compile and Run (Unit I)
+
+```bash
+g++ "UNIT I/Program_01/program01.cpp" -o program01 && ./program01
+g++ "UNIT I/Program_02/program02.cpp" -o program02 && ./program02
+g++ "UNIT I/Program_03/program03.cpp" -o program03 && ./program03
+g++ "UNIT I/Program_04/program04.cpp" -o program04 && ./program04
+g++ "UNIT I/Program_05/program05.cpp" -o program05 && ./program05
+g++ "UNIT I/Program_06/program06.cpp" -o program06 && ./program06
+g++ "UNIT I/Program_07/program07.cpp" -o program07 && ./program07
+g++ "UNIT I/Program_08/program08.cpp" -o program08 && ./program08
+```
 
 ---
 
