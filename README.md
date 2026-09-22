@@ -62,7 +62,3 @@ g++ "UNIT 2/Program_15/program15.cpp" -o program15 && ./program15
 g++ "UNIT 2/Program_16/program16.cpp" -o program16 && ./program16
 ```
 
-## Notes on Fixes
-
-- **Program 4 (Multilevel Inheritance):** the original `main()` function was missing its closing brace `}`, which would have caused a compilation error. This has been fixed; no logic was changed.
-- All other programs compiled and ran successfully as originally written (verified with `g++ -std=c++17 -Wall`), so no other changes were made.
