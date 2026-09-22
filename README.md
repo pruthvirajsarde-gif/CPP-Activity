@@ -1,4 +1,4 @@
-# OOP C++ Programming Project
+# OOP C++ Programming Activity
 
 ## Student Details
 - Student Name: Pruthviraj Mahadev Sarade
